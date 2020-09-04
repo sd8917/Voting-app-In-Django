@@ -73,6 +73,10 @@ Superuser created successfully.
 ![voter4](https://user-images.githubusercontent.com/34008023/92269036-3b90b380-ee98-11ea-80a8-3f329e1ef0b5.png)
 
 
+:heart: NOTE - For writing good Readme.MD must visit :point_down:
+- [Readme.md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+). 
 
+- [Readme.md icon]( https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
